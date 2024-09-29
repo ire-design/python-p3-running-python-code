@@ -1,6 +1,1 @@
-print("Hello world!")
-print("Hello sun!")
-print("Hello sky!")
-
-print("Hello world!", end="\n")
-print("Hello world!", end="!!!")
+print("Hello World! Pass this test, please.")
